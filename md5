@@ -1,0 +1,22 @@
+[program]
+name = TBM Smart Windows
+time = 2024-11-18 22:25:16
+version = 1.0.1
+information = 优化界面布局。；修复程序组件缺失导致无法正常使用问题。；修复部分bug，增加程序稳定性和普适性。
+
+[Resources]
+file = Resources.zip
+path = \Resources.zip
+size = 10657465 bayes
+creative = 2024-11-18 22:25:19
+modify = 2024-11-18 22:25:19
+md5 = a2d33304435fe1c9b8f614bc3afd965a
+
+[Update]
+file = Update.py
+path = \Update.py
+size = 6748 bayes
+creative = 2024-11-18 22:25:19
+modify = 2024-11-18 22:25:19
+md5 = 9c43dae2bf63a91194ab7a5e9475fb32
+
